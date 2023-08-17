@@ -1,6 +1,3 @@
-10-main.c CODE
-
-
 #include "main.h"
 #include <stdio.h>
 
